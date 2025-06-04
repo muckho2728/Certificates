@@ -40,6 +40,6 @@ As the creator of this repository, I have included the following notes to provid
 
 ## 📬 Contact
 Feel free to reach out if you have any questions about my certifications or projects:  
-- **Email**: [haina3639@gmail.com](mailto:haina3639@gmail.com)  
-- **LinkedIn**: [halelethaiha83](https://www.linkedin.com/in/halelethaiha83)  
+- **Email**: [haiha3639@gmail.com](mailto:haiha3639@gmail.com)  
+- **LinkedIn**: [halethihai83](www.linkedin.com/in/halethihai83)  
 - **GitHub**: [muckho2728](https://github.com/muckho2728)
